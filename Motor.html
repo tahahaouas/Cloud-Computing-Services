@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Motor Control</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            width: 200px;
+            margin: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Motor Control</h1>
+    <img src="motor.png" alt="Motor Image">
+    <br>
+    <button onclick="startMotor()">Start</button>
+    <button onclick="stopMotor()">Stop</button>
+    
+    <script>
+        function startMotor() {
+            alert("Motor Started");
+        }
+        function stopMotor() {
+            alert("Motor Stopped");
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "egg1",
+    "coords": [
+      48.1371,
+      11.5753
+    ],
+    "hint": "Ich bin nah am Marienplatz."
+  },
+  {
+    "id": "egg2",
+    "coords": [
+      48.1416,
+      11.5809
+    ],
+    "hint": "Ich bin dort wo B\u00fccher verkauft werden."
+  },
+  {
+    "id": "egg3",
+    "coords": [
+      48.1332,
+      11.5605
+    ],
+    "hint": "wo der Englische Garten beginnt."
+  },
+  {
+    "id": "3adhna",
+    "hint": "Duuuuuuu Sag mal",
+    "coords": [
+      "48.21554",
+      "11.74181"
+    ]
+  },
+  {
+    "id": "Bakula",
+    "hint": "Dachau",
+    "coords": [
+      "48.25892",
+      "11.43574"
+    ],
+    "found": false
+  },
+  {
+    "id": "mein Heimatland",
+    "hint": "Afrika",
+    "coords": [
+      "35.72795",
+      "10.57743"
+    ],
+    "found": false
+  },
+  {
+    "id": "haus",
+    "hint": "wo ich wohne",
+    "coords": [
+      "48.18585",
+      "11.55161"
+    ],
+    "found": false
+  },
+  {
+    "id": "ouiiii",
+    "hint": "am schlachthof",
+    "coords": [
+      "48.12376",
+      "11.55436"
+    ],
+    "found": false
+  }
+]

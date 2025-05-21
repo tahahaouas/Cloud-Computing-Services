@@ -1,0 +1,7 @@
+#2#
+
+##Eigener Server
+##Stabile Internetverbindung
+##Laufzeitumgebungen
+##Firewall und Sicherheit
+##Datenbanken

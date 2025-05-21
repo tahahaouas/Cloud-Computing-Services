@@ -1,0 +1,15 @@
+
+#1#
+##Kostenloses Webhosting:
+Anbieter stellen begrenzten Speicherplatz zur Verfügung, und hat immer Einschränkungen.
+
+##Shared Webhosting:
+Professionelle Hosting-Pakete mit mehr Ressourcen, Support, eigenen Domains, E-Mail-Adressen und Datenbanken wie WordPress.com oder Wix.
+
+##Virtual Dedicated und Dedicated Hosting:
+Diese Art des Webhosting teilt Server-Ressourcen in virtuelle Server auf, wobei die Ressourcen der Hardware dem jeweiligen User flexibel zugeordnet werden können.
+
+##Cloud-basiertes Hosting:
+AWS, Google Cloud oder Microsoft Azure bieten skalierbare Infrastruktur für komplexe Projekte.
+
+##Server-Housing mit eigener Domain

@@ -1,0 +1,19 @@
+#Unterschied zwischen Webseiten und Webanwendungen auf Serverseite
+
+Eine Webseite ist statisch und besteht hauptsächlich aus HTML-, CSS- und ggf. JavaScript-Dateien, die direkt vom Webserver an den Browser des Nutzers gesendet werden.
+
+Eine Webanwendung ist dynamisch und beinhaltet serverseitige Logik. Sie verarbeitet Benutzereingaben, greift auf Datenbanken zu und erzeugt Inhalte zur Laufzeit.
+
+#Berücksichtigung beim Hosting:
+
+##Webseiten (statisch):
+
+Hosting kann auf einem einfachen Webserver direkt auf Cloud Storage wie AWS S3 erfolgen.
+Keine serverseitige Ausführung notwendig.
+Geringe Anforderungen an Rechenleistung
+
+##Webanwendungen (dynamisch):
+
+Erfordert einen Server mit entsprechender Laufzeitumgebung.
+Datenbankanbindung muss berücksichtigt werden.
+Benutzer-Authentifizierung, HTTPS und Firewall-Regeln sind wichtig.
